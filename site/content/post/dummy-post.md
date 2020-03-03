@@ -2,7 +2,7 @@
 title: 'Dummy post '
 date: 2020-03-03T10:41:06.335Z
 description: Some alternate text here
-image: ''
+image: img/products-grid2.jpg
 ---
 A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
 
